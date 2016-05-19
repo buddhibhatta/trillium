@@ -1,0 +1,51 @@
+
+body	{
+  background-color: #f4ffe4
+  font-family: Arial,	Verdana, sans-serif;
+  color: #333333;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+h1 {
+  background-color:#d5edb3;
+  color: #5c743d;
+  font-family; Georgia,	“Times	New	Roman”,	serif
+  line-height:1.2em;
+}
+
+h2 {
+  background-color: #d5edb3;
+  color: #5c743d;
+  font-family:Georgia, "Times	New	Roman",	serif;
+}
+
+nav {
+  font-weight: bold;
+  font-size: .75em
+}
+nav ul {
+  text-align: center;
+}
+nav li {
+  display: inline;
+  padding-left: 10px
+}
+footer{
+  font-size: .75em;
+  font-style: italic;
+}
+footer nav ul{
+  font-size: 1em;
+  text-align: left;
+  padding-left: 0;
+}
+.companyname{
+  font-weight: bold;
+  font-family: Georgia;
+  font-size: 1.25em
+}
+img {
+  border-style: none;
+}
